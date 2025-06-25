@@ -1,0 +1,7 @@
+taxa_elitismo: 0.05
+taxa_mutacao: 0.3
+tamanho_populacao: 200
+geracoes: 500
+tipo_geracao: aleatorio
+max_tamanho_individuo: 80
+saida_log: experimento2.csv
